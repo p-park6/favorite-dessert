@@ -1,1 +1,3 @@
-# favorite-dessert
+# Favorite desserts
+
+-  Patty: vanilla strawberry cake
